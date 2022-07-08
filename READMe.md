@@ -23,3 +23,4 @@ This is a guide (not perfect) for the installation of ORB-SLAM (monocular):
   && cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local .. \
   && make \
   && make install
+  remove the depend cv2 line from manifest.xml
