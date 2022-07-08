@@ -1,4 +1,5 @@
-This is a guide (not perfect) for the installation of ORB-SLAM (monocular)
+This is a guide (not perfect) for the installation of ORB-SLAM (monocular):
+
 -build docker image from docker file 
 -build container and enter into /root
 -git clone https://github.com/raulmur/ORB_SLAM.git
